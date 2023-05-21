@@ -1,0 +1,11 @@
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\obj\Debug\urunkdv.csproj.AssemblyReference.cache
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\obj\Debug\urunkdv.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\obj\Debug\urunkdv.Form1.resources
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\obj\Debug\urunkdv.Properties.Resources.resources
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\obj\Debug\urunkdv.csproj.GenerateResource.cache
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\obj\Debug\urunkdv.csproj.CoreCompileInputs.cache
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\bin\Debug\urunkdv.exe.config
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\bin\Debug\urunkdv.exe
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\bin\Debug\urunkdv.pdb
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\obj\Debug\urunkdv.exe
+C:\Users\Elif İnci\Source\Repos\urunkdv\urunkdv\obj\Debug\urunkdv.pdb
